@@ -29,9 +29,9 @@ This is the backend of the Online Course Management System (OCMS) built using Sp
 - MySQL
 
 ---
-
 ## 📁 Project Structure
-```
+
+```text
 controller/
 ├── AuthController.java      # Handles login & register APIs
 ├── CourseController.java    # Manages courses
